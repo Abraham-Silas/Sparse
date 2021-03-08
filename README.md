@@ -1,1 +1,1 @@
-# Sparse
+# Sparse Table Algorithm
